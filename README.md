@@ -14,7 +14,7 @@ This repository includes:
 
 Recommendations for interested reproducers
 
-This repository is just for documentation of parts of our code changes during the reproduction and the figures we generated during our reproduction attempt. We want to refer the interested reproducer to the original OSF.io repository by Flamino et al. which contains extensive details on how to reproduce their analysis. See here:
+This repository is just for documentation of parts of our code changes during the reproduction and the figures we generated during our reproduction attempt. We want to refer the interested reproducer to the original OSF.io repository by Flamino et al. (https://osf.io/e395q/) which contains extensive details on how to reproduce their analysis. See here:
 
     Code repository: https://osf.io/dbzm2/
     Data repository: https://osf.io/e395q/
