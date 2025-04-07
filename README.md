@@ -19,4 +19,4 @@ This repository is just for documentation of parts of our code changes during th
     Code repository: https://osf.io/dbzm2/
     Data repository: https://osf.io/e395q/
 
-Please note that the original X/Twitter raw data cannot be shared for legal reasons so you cannot fully reproduce the entire analysis pipeline including data pre-processing etc.
+Please note that the original X/Twitter raw data cannot be shared for legal reasons so you cannot fully reproduce the entire analysis pipeline including data pre-processing etc. Their repository contains party of the original data as well as intermediary results.
