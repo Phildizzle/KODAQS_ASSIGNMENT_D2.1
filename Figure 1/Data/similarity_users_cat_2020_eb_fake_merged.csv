@@ -1,0 +1,37 @@
+row,col,val,count
+Fake news & extreme bias,Fake news & extreme bias,0.49125123133724,5353511
+Fake news & extreme bias,Left leaning news,0.0629227897066401,685714
+Fake news & extreme bias,Right news,0.309149495237759,3369020
+Fake news & extreme bias,Left news,0.00457912927538413,49902
+Fake news & extreme bias,Center news,0.0435337532076708,474418
+Fake news & extreme bias,Right leaning news,0.088563601235306,965140
+Left leaning news,Fake news & extreme bias,0.00994218273817523,453634
+Left leaning news,Left leaning news,0.643401467247478,29356610
+Left leaning news,Right news,0.0105551723046628,481603
+Left leaning news,Left news,0.184625032031329,8423924
+Left leaning news,Center news,0.115926739670483,5289413
+Left leaning news,Right leaning news,0.035549406007872,1622020
+Right news,Fake news & extreme bias,0.249326493381604,2397731
+Right news,Left leaning news,0.0899518677252551,865052
+Right news,Right news,0.465842701629809,4479931
+Right news,Left news,0.0050383535867113,48453
+Right news,Center news,0.0598645167140281,575707
+Right news,Right leaning news,0.129976066962592,1249958
+Left news,Fake news & extreme bias,0.0160700623506781,48604
+Left news,Left leaning news,0.283709802526429,858082
+Left news,Right news,0.00728317285533572,22028
+Left news,Left news,0.589551814412006,1783103
+Left news,Center news,0.0840239695341983,254131
+Left news,Right leaning news,0.0193611783213523,58558
+Center news,Fake news & extreme bias,0.0277159813976634,30299
+Center news,Left leaning news,0.229376067969513,250753
+Center news,Right news,0.039843724272683,43557
+Center news,Left news,0.0561180245811364,61348
+Center news,Center news,0.594844840266521,650282
+Center news,Right leaning news,0.0521013615124827,56957
+Right leaning news,Fake news & extreme bias,0.0906355305440504,96263
+Right leaning news,Left leaning news,0.126184340483707,134019
+Right leaning news,Right news,0.182372663684493,193696
+Right leaning news,Left news,0.0124641155308077,13238
+Right leaning news,Center news,0.0757290584875655,80431
+Right leaning news,Right leaning news,0.512614291269376,544442
