@@ -21,4 +21,4 @@ This repository is just for documentation of parts of our code changes during th
 
 Please note that the original X/Twitter raw data cannot be shared for legal reasons so you cannot fully reproduce the entire analysis pipeline including data pre-processing etc. Their repository contains party of the original data as well as intermediary results.
 
-The analysis was performed with Python version 3.12.3 and R version 4.3.3. For more information about the used packages see the file "package-list-python.txt" and "package-list-R.txt" respectively. Unfortunately, I cannot provide a 
+The analysis was performed with Python version 3.12.3 and R version 4.3.3. For more information about the used packages see the file "package-list-python.txt" and "package-list-R.txt" respectively. Unfortunately,
